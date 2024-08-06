@@ -17,27 +17,33 @@ This project demonstrates how to control two DC motors using an Arduino and the 
 
 ### 1. L298N Motor Driver Pinout Diagram
 Refer to the L298N pinout diagram for detailed pin connections: 
+
 ![L298N Pinout Diagram](https://github.com/shathalshehri/DCMotorControl/blob/main/Image%201.jpg)
 
 ### 2. Connect Your Motors with L298N Motor Driver
 Connect your DC motors to the L298N motor driver as shown in the image: 
+
 ![Motor Connections](https://github.com/shathalshehri/DCMotorControl/blob/main/Image%203.jpg)
 
 ### 3. Connect Your L298N Pins with Arduino UNO Pins
 Follow this diagram to connect the L298N pins to the Arduino UNO pins: 
+
 ![Arduino to L298N Connections](https://github.com/shathalshehri/DCMotorControl/blob/main/Image%202.jpg)
 
 ### 4. Controlling Speed
 If you want to control the speed of the motors, you will need to connect PWM pins and configure them in the code. Check out this image for the extra setup needed: 
+
 ![Speed Control Setup](https://github.com/shathalshehri/DCMotorControl/blob/main/Image.jpg)
 
 ### 5. Real-Life Setup
 See the final setup with all connections, wires, and the Arduino in action: 
+
 ![Real-Life Setup](https://github.com/shathalshehri/DCMotorControl/blob/main/4.jpg)
 
 ## Demo
 
 Watch the demo of the DC motor control in action: 
+
 ![Demo](https://github.com/shathalshehri/DCMotorControl/blob/main/demo.gif)
 
 ## Arduino Code
